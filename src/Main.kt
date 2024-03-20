@@ -5,7 +5,7 @@ fun main() {
     question.question2()
     question.question3()
     question.question4()
-   val q5 = println(question.question5())
+    question.question5()
     question.question6()
 }
 
